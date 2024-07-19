@@ -21,5 +21,5 @@ i. Original image
 
 ii. Classified the palces with construction vs the places without construction
 
-![1. Image classification](./Screenshots/rf-o.png)
+![1. Image classification](./Screenshots/rf-c.png)
 
